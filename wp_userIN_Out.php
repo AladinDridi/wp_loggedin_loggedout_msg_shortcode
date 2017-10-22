@@ -1,7 +1,7 @@
 <?php
 /* @wordpress-plugin
  * Plugin Name:       Wordpress show message by shortcode for logged_in or logged_out users
- * Plugin URI:        https://githib.org/aladindridi
+ * Plugin URI:        https://github.com/AladinDridi/wp_loggedin_loggedout_msg_shortcode
  * Description:       this simple plugin will provide for you shortcodes for showing message when users is logged in or logged out ..
  * Version:           1.0
  * Requires at least: 4.0
