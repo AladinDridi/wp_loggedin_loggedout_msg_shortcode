@@ -13,14 +13,19 @@ wordpress plugin
  
  ----------------- how to use it ----
  it's simple very simple , just 
+ <br/>
  if you want shortcode show message use this shortcode
+ 
  [user_message message=" for example : hello world"]
+ <br/>
  //if you want the message showing for the loggedinusers using this //
  [user_loggedin_message message="for example : hello world"] 
+ <br/>
  // of you want the message displaying just for loggedout users using this shortcode//
  [user_loggedout_message message="for example hello world"] 
+ <br/>
  // last shortcode if you want message showing message for specific user role using example like this //
  [user_role_message message="hello world" roleid="subscriber"]
- 
+ <br/>
  ---- very simple plugin in this first release that doesn't mean the last release the plugin will be improve day by day good luck ,
  never hesitate for help from me ---- 
